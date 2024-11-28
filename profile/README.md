@@ -92,7 +92,7 @@
 <br/><br/>
 
 ## 시스템 아키텍처
-<img alt="SKUPLATE_SYSTEM_ARCHITECTURE" src="https://github.com/user-attachments/assets/94766fc3-6790-4d3d-a095-d224f0fcfb08" width="100%">
+<img alt="SKUPLATE_SYSTEM_ARCHITECTURE" src="https://github.com/user-attachments/assets/bd8f0cc8-9e1d-4beb-b3d3-b120f7e343e1" width="100%">
 
 
 <br/><br/>
