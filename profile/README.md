@@ -128,7 +128,7 @@ userSchema.pre(/^find/, function (next) {
 | 필드명       | 타입          | 설명                                | 필수 여부      | 기본값    |
 |------------|-------------|-----------------------------------|------------|---------|
 | `name`     | `String`    | 식당 이름                             | ✅         | 없음      |
-| `typeOfFood` | `String`    | 음식 종류                             | ✅         | 없음      |
+| `typeOfFood` | `String`    | 식당 카테고리                             | ✅         | 없음      |
 | `address`  | `String`    | 주소                                | ✅         | 없음      |
 | `menu`     | `Array`     | 메뉴 목록 (`name`, `price` 필드 포함) | ❌         | 없음      |
 | `images`   | `String[]`  | 식당 이미지 경로 배열                     | ❌         | 없음      |
