@@ -105,7 +105,7 @@
 |-------------------|--------------|------------------------------------------------|------------|---------------|
 | `name`           | `String`     | 사용자 이름                                       | ✅         | 없음            |
 | `profileImage`    | `String`     | 프로필 이미지 경로                                 | ❌         | `default.jpg` |
-| `email`          | `String`     | 사용자 이메일 (고유값)                              | ❌         | 없음            |
+| `email`          | `String`     | 사용자 이메일                                      | ❌         | 없음            |
 | `bookmarkedRestaurants` | `ObjectId[]` | 즐겨찾기한 식당 목록 (Restaurant 참조)            | ❌         | 없음            |
 | `active`         | `Boolean`    | 활성 상태 여부 (비활성 사용자는 제외)                | ❌         | `true`         |
 
@@ -127,7 +127,7 @@ userSchema.pre(/^find/, function (next) {
 ### Restaurant 스키마
 | 필드명       | 타입          | 설명                                | 필수 여부      | 기본값    |
 |------------|-------------|-----------------------------------|------------|---------|
-| `name`     | `String`    | 식당 이름 (고유값)                     | ✅         | 없음      |
+| `name`     | `String`    | 식당 이름                             | ✅         | 없음      |
 | `typeOfFood` | `String`    | 음식 종류                             | ✅         | 없음      |
 | `address`  | `String`    | 주소                                | ✅         | 없음      |
 | `menu`     | `Array`     | 메뉴 목록 (`name`, `price` 필드 포함) | ❌         | 없음      |
