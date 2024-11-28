@@ -92,7 +92,8 @@
 <br/><br/>
 
 ## 시스템 아키텍처
-추가 예정
+<img alt="SKUPLATE_SYSTEM_ARCHITECTURE" src="https://github.com/user-attachments/assets/94766fc3-6790-4d3d-a095-d224f0fcfb08" width="100%">
+
 
 <br/><br/>
 
