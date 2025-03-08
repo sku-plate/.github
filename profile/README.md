@@ -1,4 +1,6 @@
 # 🍕 SKUPLATE
+<img width="100%" alt="skuplate" src="https://github.com/user-attachments/assets/759b7c06-95af-45cb-a6d8-596b7fc57b70">
+
 프로젝트 기간 : 2023. 09. 27 ~ 2023. 11. 21
 
 "망고플레이터"의 서비스 종료를 앞두고, 이를 대체하는 대학가 맛집 공유 웹앱 프로젝트입니다.
@@ -13,7 +15,7 @@
     <table>
       <thead>
         <tr>
-          <th><a href="https://github.com/taehwan01"><img src="https://github.com/taehwan01.png" width="100px" style="max-width: 100%;"><br>김태환 [FrontEnd & BackEnd]</a></th>
+          <th><a href="https://github.com/monte-kim"><img src="https://github.com/monte-kim.png" width="100px" style="max-width: 100%;"><br>김태환 [FrontEnd & BackEnd]</a></th>
           <th><a href="https://github.com/TirTir"><img src="https://github.com/TirTir.png" width="100px" style="max-width: 100%;"><br>김유진 [FrontEnd]</a></th>
         </tr>
       </thead>
